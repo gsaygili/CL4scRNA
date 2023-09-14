@@ -14,7 +14,7 @@ Single-cell RNA sequencing data is among the most interesting and impactful data
 Created by Busra Ozgode Yigin and Gorkem Saygili on 14-09-23.
 
 Datasets can be obtained from: 
-- Intra and Inter Datasets by [abdelaal et al., 2019] (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z): https://doi.org/10.5281/zenodo.3357167
+- Intra and Inter Datasets by [abdelaal et al., 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z): https://doi.org/10.5281/zenodo.3357167
 - PBMC-eQTL~\cite{michielsen2021hierarchical}: https://zenodo.org/record/3736493#.ZGZgXHZBxPY 
 - HLCA latent space ~\cite{michielsen2022single}: https://zenodo.org/record/6337966#.YqmGIidBx3g
 
